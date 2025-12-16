@@ -1,0 +1,6 @@
+{
+  "Machine Learning Engineer": ["Python", "TensorFlow", "PyTorch", "NumPy", "Pandas"],
+  "Data Scientist": ["Python", "SQL", "Pandas", "NumPy", "scikit-learn"],
+  "Full Stack Developer": ["JavaScript", "React", "Node.js", "SQL"],
+  "Backend Engineer": ["Python", "SQL", "REST", "Docker"]
+}
